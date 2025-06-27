@@ -21,11 +21,11 @@ Adolescente
 ## 🚀 Como executar
 
 1. Certifique-se de ter o Python instalado.
-2. Salve o código em um arquivo, por exemplo: `classificador_idade.py`
+2. Salve o código em um arquivo, por exemplo: `idade.py`
 3. Execute no terminal:
 
 ```bash
-python classificador_idade.py
+python python idade.py
 ```
 
 ## 🛠️ Tecnologias
