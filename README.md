@@ -25,7 +25,7 @@ Adolescente
 3. Execute no terminal:
 
 ```bash
-python python idade.py
+python idade.py
 ```
 
 ## 🛠️ Tecnologias
